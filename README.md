@@ -68,25 +68,6 @@ const kapil = {
 
 ---
 
-## ⏱️ WakaTime Coding Stats
-
-<div align="center">
-
-<!-- Weekly Coding Activity -->
-<img src="https://readme-stats-omega-seven.vercel.app/api/wakatime?username=tHyenigmatiC&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" width="60%" />
-
-<br/><br/>
-
-<!-- WakaTime Hours Badge - requires self-hosted API or use waka-readme action below -->
-<!-- Alternative: Use waka-readme GitHub Action for automatic weekly updates (see setup below) -->
-
-</div>
-
-> 📝 **Note:** To enable WakaTime stats, install the [WakaTime extension](https://wakatime.com/plugins) for your IDE and create an account at [wakatime.com](https://wakatime.com). The stats card above uses your WakaTime username (may differ from GitHub username).
-
----
-
-
 ## 🛠️ Tech Stack
 
 <div align="center">
