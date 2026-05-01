@@ -1,0 +1,38 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
+
+  # Allows manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # GH_TOKEN is only needed if updating a profile repo (username/username)
+          # For normal repos, GITHUB_TOKEN is used automatically
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # Display options
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: false
+
+          # Language settings
+          LANG_COUNT: 10
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+
+          # Time range (last_7_days, last_30_days, last_6_months, last_year)
+          TIME_RANGE: last_7_days
+
+          # Commit message
+          COMMIT_MESSAGE: "📊 Update WakaTime stats"

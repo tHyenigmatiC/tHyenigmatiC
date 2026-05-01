@@ -66,8 +66,6 @@ const kapil = {
 
 </div>
 
-
-This is a test
 ---
 
 ## ⏱️ WakaTime Coding Stats
@@ -79,13 +77,12 @@ This is a test
 
 <br/><br/>
 
-
-<!-- WakaTime Badge -->
-<img src="https://wakatime.com/badge/user/tHyenigmatiC.svg" alt="WakaTime Badge" />
+<!-- WakaTime Hours Badge - requires self-hosted API or use waka-readme action below -->
+<!-- Alternative: Use waka-readme GitHub Action for automatic weekly updates (see setup below) -->
 
 </div>
 
-> 📝 **Note:** To enable WakaTime stats, install the [WakaTime extension](https://wakatime.com/dashboard) for your IDE and connect your GitHub account.
+> 📝 **Note:** To enable WakaTime stats, install the [WakaTime extension](https://wakatime.com/plugins) for your IDE and create an account at [wakatime.com](https://wakatime.com). The stats card above uses your WakaTime username (may differ from GitHub username).
 
 ---
 
