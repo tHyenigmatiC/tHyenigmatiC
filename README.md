@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kapil%20Bastola&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%26%20Python%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kapil%20Bastola&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20and%20Python%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -41,7 +41,7 @@ const kapil = {
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=tHyenigmatiC&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+<img src="https://readme-stats-omega-seven.vercel.app/api?username=tHyenigmatiC&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tHyenigmatiC&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" width="48%" />
@@ -49,7 +49,7 @@ const kapil = {
 <br/><br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tHyenigmatiC&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="45%" />
+<img src="https://readme-stats-omega-seven.vercel.app/api/top-langs/?username=tHyenigmatiC&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="45%" />
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tHyenigmatiC&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Contribution Graph" width="100%" />
@@ -73,7 +73,7 @@ const kapil = {
 <div align="center">
 
 <!-- Weekly Coding Activity -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tHyenigmatiC&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" width="60%" />
+<img src="https://readme-stats-omega-seven.vercel.app/api/wakatime?username=tHyenigmatiC&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" width="60%" />
 
 <br/><br/>
 
@@ -123,11 +123,7 @@ const kapil = {
 <div align="center">
 
 <a href="https://github.com/tHyenigmatiC/Mongo-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tHyenigmatiC&repo=Mongo-backend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=2" alt="Mongo-backend" />
-</a>
-
-<a href="https://github.com/tHyenigmatiC/JT-Crawler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tHyenigmatiC&repo=JT-Crawler&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=2" alt="JT-Crawler" />
+  <img src="https://readme-stats-omega-seven.vercel.app/api/pin/?username=tHyenigmatiC&repo=Mongo-backend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=2" alt="Mongo-backend" />
 </a>
 
 </div>
