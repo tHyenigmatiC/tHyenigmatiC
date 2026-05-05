@@ -1,119 +1,163 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kapil%20Bastola&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20and%20Python%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1"/>
 
-<!-- Typing Animation -->
+<br><br>
+
+# Kapil Bastola
+
+**Senior Frontend Engineer · 8+ Years · React · Next.js · TypeScript**
+
+<br>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;JavaScript+%7C+Python+%7C+Node.js+%7C+React;Open+Source+Contributor+%F0%9F%8C%9F;Always+learning%2C+always+growing+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=4000&pause=2500&color=6E7681&center=true&vCenter=true&width=550&lines=senior+frontend+dev+%40+two+ace+solutions;ex-cto+%40+mountgpt.ai+%E2%80%94+500%2B+users+in+3+months;lighthouse+scores+45+%E2%86%92+87+%7C+test+coverage+0+%E2%86%92+60%25%2B;8%2B+years+shipping+production+react+apps" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=tHyenigmatiC&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://kapilbastola.com.np"><img src="https://img.shields.io/badge/kapilbastola.com.np-0D1117?style=flat-square&logo=safari&logoColor=58A6FF" /></a>&nbsp;
+<a href="https://linkedin.com/in/kapil-bastola"><img src="https://img.shields.io/badge/kapil--bastola-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
+<a href="mailto:kapilmuni209@gmail.com"><img src="https://img.shields.io/badge/kapilmuni209-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=tHyenigmatiC&color=1a1b27&style=flat-square&label=" />
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```typescript
+<br>
+
+### `> about`
+
+```ts
 const kapil = {
-    name: "Kapil Bastola",
-    location: "Pokhara, Nepal 🇳🇵",
-    role: "Full-Stack Developer",
-    languages: ["JavaScript", "Python", "TypeScript", "Node.js"],
-    interests: ["Web Development", "Automation", "Open Source", "Backend Systems"],
-    currentlyLearning: "Advanced System Design & Cloud Architecture",
-    funFact: "I turn coffee into code ☕ → 💻",
-    contact: "tHyenigmatiC@github.com"
+  role: "Senior Frontend Developer & Project Manager",
+  company: "Two Ace Solutions Pvt. Ltd.",
+  location: "Pokhara, Nepal",
+  experience: "8+ years",
+  
+  highlights: [
+    "Owns frontend across 4+ client portals simultaneously",
+    "Lighthouse 45 → 87 with Next.js server components & lazy loading",
+    "Led team of 5 engineers — sprint planning, code reviews, releases",
+    "Test coverage 0% → 60%+ with Jest & React Testing Library",
+    "Cut failed production deploys by ~40% via GitLab CI/CD"
+  ],
+
+  previously: [
+    "CTO @ MountGPT.ai — 500+ users, 200+ paid subs, 99.5% uptime",
+    "Frontend Dev @ Caizcoin (Germany, Remote) — crypto analytics dashboard",
+    "Sole Dev @ Panvag Labs — 8+ production projects over 4 years"
+  ]
 };
 ```
 
-> 🌟 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+<br>
+
+### `> stack --primary`
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://what-am-i-doing-nu.vercel.app/api?username=tHyenigmatiC&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+<br>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tHyenigmatiC&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" width="48%" />
+| | |
+|:---|:---|
+| **`languages`** | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=3776AB) ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=777BB4) ![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash&logoColor=4EAA25) |
+| **`frontend`** | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular&logoColor=DD0031) ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square&logo=shadcnui&logoColor=white) ![Radix](https://img.shields.io/badge/Radix-black?style=flat-square&logo=radixui&logoColor=white) |
+| **`backend`** | ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django&logoColor=092E20) ![Celery](https://img.shields.io/badge/Celery-black?style=flat-square&logo=celery&logoColor=37814A) |
+| **`data`** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=47A248) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1) ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis&logoColor=DC382D) ![Elasticsearch](https://img.shields.io/badge/Elastic-black?style=flat-square&logo=elasticsearch&logoColor=005571) |
+| **`testing`** | ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest&logoColor=C21325) ![RTL](https://img.shields.io/badge/React_Testing_Library-black?style=flat-square&logo=testinglibrary&logoColor=E33332) ![WCAG](https://img.shields.io/badge/WCAG_2.1-black?style=flat-square&logo=w3c&logoColor=005A9C) ![ARIA](https://img.shields.io/badge/ARIA-black?style=flat-square&logo=accessibility&logoColor=0056B3) |
+| **`infra`** | ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=2496ED) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-black?style=flat-square&logo=gitlab&logoColor=FC6D26) ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=nginx&logoColor=009639) ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=FCC624) |
 
-<br/><br/>
-
-<!-- Top Languages -->
-<img src="https://what-am-i-doing-nu.vercel.app/api/top-langs/?username=tHyenigmatiC&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="45%" />
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tHyenigmatiC&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Contribution Graph" width="100%" />
+<br>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
+<br>
+
+### `> work --highlights`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏢 Two Ace Solutions <sup><code>2021–present</code></sup></h4>
+      <ul>
+        <li>Built <a href="#">driku.jp</a> — React e-commerce, 1000+ products, Japanese market</li>
+        <li>12+ multilingual sites with payment gateway integrations</li>
+        <li>Mentored 4 junior devs on React architecture & Git workflows</li>
+        <li>30+ stable release cycles with Jest test coverage</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🧠 Panvag Labs <sup><code>2017–2020</code></sup></h4>
+      <ul>
+        <li>Influencer analytics across 4 platforms — Flask + Celery + Redis</li>
+        <li>ReviewHub: scraped 60+ platforms, 500K+ reviews processed</li>
+        <li>Linkrot: dead link detection, 100K+ URLs, 8 AWS workers</li>
+        <li>TikTok tracker: 200+ creator profiles for ByteDance campaign</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+### `> metrics`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tHyenigmatiC&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&rank=S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+<br>
+
+<img src="https://what-am-i-doing-nu.vercel.app/api?username=tHyenigmatiC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=a9b1d6&ring_color=58A6FF&rank_icon=percentile&card_width=450" alt="Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tHyenigmatiC&hide_border=true&background=00000000&stroke=21262d&ring=58A6FF&fire=FF6B6B&currStreakLabel=a9b1d6&sideLabels=58A6FF&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=6E7681" alt="Streak" width="48%" />
+
+<br><br>
+
+<img src="https://what-am-i-doing-nu.vercel.app/api/top-langs/?username=tHyenigmatiC&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=a9b1d6&langs_count=8&card_width=400" alt="Languages" width="40%" />
+
+<br>
 
 </div>
 
----
+<br>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
+<br>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📌 Featured Projects
+### `> projects --pinned`
 
 <div align="center">
+
+<br>
 
 <a href="https://github.com/tHyenigmatiC/Mongo-backend">
-  <img src="https://what-am-i-doing-nu.vercel.app/api/pin/?username=tHyenigmatiC&repo=Mongo-backend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&description_lines_count=2" alt="Mongo-backend" />
+  <img src="https://what-am-i-doing-nu.vercel.app/api/pin/?username=tHyenigmatiC&repo=Mongo-backend&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=6E7681&text_color=a9b1d6" width="49%" />
 </a>
+
+<br>
 
 </div>
 
----
+<br>
 
-## ⏱️ Weekly Dev Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+### `> coding --this-week`
 
 <!--START_SECTION:waka-->
 
@@ -122,42 +166,60 @@ From: 27 April 2026 - To: 04 May 2026
 
 Total Time: 21 hrs 37 mins
 
-TypeScript   18 hrs 6 mins         ████████████████████▓░░░░   82.25 %
-Markdown     59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-YAML         59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-SQL          24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Other        24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Python       15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-JSON5        13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Bash         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JavaScript   7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-JSON         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TypeScript   18 hrs 6 mins   ████████████████████▓░░░░   82.25 %
+Markdown     59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+YAML         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+SQL          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Python       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
 
----
+<br>
 
-## 📈 Contribution Calendar
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+### `> activity`
 
 <div align="center">
 
-<!-- Animated Contribution Snake -->
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tHyenigmatiC&hide_border=true&bg_color=00000000&color=6E7681&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF15" alt="Activity Graph" width="100%" />
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tHyenigmatiC/tHyenigmatiC/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tHyenigmatiC/tHyenigmatiC/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tHyenigmatiC/tHyenigmatiC/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/tHyenigmatiC/tHyenigmatiC/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+<br>
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<br>
 
-### 💙 Thanks for visiting! Let's build something amazing together.
+```
+ Available for senior frontend / full-stack roles (remote)
+ Open to interesting open-source collaborations
+```
+
+<br>
+
+[![Hire Me](https://img.shields.io/badge/Let's_work_together-58A6FF?style=for-the-badge&logoColor=white)](mailto:kapilmuni209@gmail.com)
+
+<br><br>
 
 </div>
