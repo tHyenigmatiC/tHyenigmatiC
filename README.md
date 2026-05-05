@@ -116,6 +116,24 @@ const kapil = {
 ## ⏱️ Weekly Dev Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 27 April 2026 - To: 04 May 2026
+
+Total Time: 21 hrs 37 mins
+
+TypeScript   18 hrs 6 mins         ████████████████████▓░░░░   82.25 %
+Markdown     59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+YAML         59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+SQL          24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Other        24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Python       15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+JSON5        13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Bash         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JavaScript   7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JSON         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
