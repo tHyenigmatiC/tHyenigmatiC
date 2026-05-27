@@ -162,19 +162,19 @@ const kapil = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2026 - To: 25 May 2026
+From: 19 May 2026 - To: 26 May 2026
 
-Total Time: 27 hrs 32 mins
+Total Time: 25 hrs 57 mins
 
-TypeScript   24 hrs 19 mins        ████████████████████▓░░░░   82.93 %
-Other        1 hr 47 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-JSON         1 hr 46 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-TSConfig     47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Markdown     16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Text         10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Git Config   8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JavaScript   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-YAML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   22 hrs 11 mins        ████████████████████▒░░░░   80.95 %
+JSON         1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Other        1 hr 27 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+TSConfig     47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+SQL          32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Markdown     22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Text         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Git Config   7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+JavaScript   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
