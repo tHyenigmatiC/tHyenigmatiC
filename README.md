@@ -143,8 +143,8 @@ const kapil = {
 
 <br>
 
-<a href="https://github.com/tHyenigmatiC/Mongo-backend">
-  <img src="https://what-am-i-doing-nu.vercel.app/api/pin/?username=tHyenigmatiC&repo=Mongo-backend&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=6E7681&text_color=a9b1d6" width="49%" />
+<a href="https://github.com/tHyenigmatiC/get-codexia">
+  <img src="https://what-am-i-doing-nu.vercel.app/api/pin/?username=tHyenigmatiC&repo=get-codexia&hide_border=true&bg_color=1B1A18&title_color=F7F3EB&icon_color=888681&text_color=A7A49F" width="49%" />
 </a>
 
 <br>
