@@ -162,13 +162,15 @@ const kapil = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-Total Time: 29 mins
+Total Time: 37 mins
 
-YAML    15 mins               █████████████▓░░░░░░░░░░░   54.67 %
-Dart    13 mins               ███████████▒░░░░░░░░░░░░░   45.28 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML         23 mins               ███████████████▒░░░░░░░░░   61.32 %
+Dart         13 mins               ████████▓░░░░░░░░░░░░░░░░   35.13 %
+Markdown     1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
