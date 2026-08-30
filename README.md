@@ -162,14 +162,15 @@ const kapil = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 August 2026
+From: 22 August 2026 - To: 29 August 2026
 
-Total Time: 3 hrs 44 mins
+Total Time: 8 hrs 38 mins
 
-CSS          1 hr 44 mins          ███████████▓░░░░░░░░░░░░░   46.41 %
-HTML         1 hr 20 mins          █████████░░░░░░░░░░░░░░░░   35.93 %
-JSON         25 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-JavaScript   13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+HTML         4 hrs 19 mins         ████████████▒░░░░░░░░░░░░   49.61 %
+CSS          3 hrs 30 mins         ██████████░░░░░░░░░░░░░░░   40.28 %
+JSON         25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+JavaScript   22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Other        4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 TOML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
