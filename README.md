@@ -162,17 +162,17 @@ const kapil = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Total Time: 13 hrs 55 mins
+Total Time: 19 hrs 37 mins
 
-HTML         8 hrs 18 mins         ██████████████▓░░░░░░░░░░   58.93 %
-CSS          4 hrs 48 mins         ████████▓░░░░░░░░░░░░░░░░   34.11 %
-JSON         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-JavaScript   22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Other        10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+HTML         10 hrs 35 mins        █████████████░░░░░░░░░░░░   52.52 %
+CSS          6 hrs 23 mins         ████████░░░░░░░░░░░░░░░░░   31.67 %
+JavaScript   1 hr 31 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Markdown     36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Other        33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+JSON         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Git Config   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 TOML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
