@@ -162,13 +162,11 @@ const kapil = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 1 hr 47 mins
+Total Time: 0 secs
 
-CSS        1 hr 16 mins          █████████████████▓░░░░░░░   71.30 %
-HTML       20 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-Markdown   10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
