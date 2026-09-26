@@ -192,7 +192,7 @@ Git Config   0 secs                ░░░░░░░░░░░░░░░
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tHyenigmatiC&hide_border=true&bg_color=00000000&color=6E7681&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF15" alt="Activity Graph" width="100%" />
+![Kapil's Activity Graph](https://raw.githubusercontent.com/tHyenigmatiC/tHyenigmatiC/output/activity-graph.svg)
 
 <br>
 
