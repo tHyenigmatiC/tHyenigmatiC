@@ -1,16 +1,22 @@
-name: Update Activity Graph
+name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # Run once a day, away from the top-of-the-hour Actions traffic spike.
+    - cron: "17 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - uses: actions/checkout@v6
@@ -23,10 +29,19 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish SVG
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Generate contribution snakes
+        uses: Platane/snk@v3
+        with:
+          github_user_name: tHyenigmatiC
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish profile assets
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update profile assets"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
