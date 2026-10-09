@@ -162,20 +162,20 @@ const kapil = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Total Time: 8 hrs 46 mins
+Total Time: 15 hrs 19 mins
 
-PHP              2 hrs 15 mins         ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-Bash             1 hr 26 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
-HTML             1 hr 4 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-JSON             1 hr 4 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Markdown         58 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-TypeScript       44 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Other            30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-JavaScript       29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-YAML             13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Blade Template   12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+PHP              2 hrs 55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Bash             2 hrs 40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+Markdown         2 hrs 25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Astro            1 hr 37 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Other            1 hr 25 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+TypeScript       1 hr 24 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+JavaScript       1 hr 14 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+JSON             1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+HTML             1 hr 4 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Blade Template   23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
