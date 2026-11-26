@@ -162,20 +162,11 @@ const kapil = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2026 - To: 31 October 2026
+From: 18 November 2026 - To: 25 November 2026
 
-Total Time: 7 hrs 40 mins
+Total Time: 0 secs
 
-Markdown         2 hrs 43 mins         ████████▒░░░░░░░░░░░░░░░░   33.74 %
-PHP              1 hr 41 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-Bash             55 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-PowerShell       54 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-Text             37 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Other            23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-JSON             21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Blade Template   15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-C#               8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-TypeScript       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
